@@ -1,3 +1,3 @@
-# Website based on this layout
+#Dan Shadwick's Portfolio!
 
-https://envato.com/websites/design/betheme-bikerental/xtfj9g
+Mostly for my own fun & practice. 
